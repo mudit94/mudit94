@@ -126,12 +126,6 @@ CompTIA Security+ SY0501 (Valid till 2027)
 B.Tech – Information Technology
 Vellore Institute of Technology
 
-### 📈 GitHub Stats
-
-(These automatically update once added to your profile)
-[![Mudit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudit94)](https://github.com/mudit94/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mudit94&layout=compact)
-
 
 ### 📫 Let’s Connect
 
