@@ -1,10 +1,10 @@
-👋 Hi, I'm Mudit Maheshwari
-QA Engineering Lead | SDET | Automation Architect | Cloud & DevOps Quality
+# 👋 Hi, I'm Mudit Maheshwari
+## QA Engineering Lead | SDET | Automation Architect | Cloud & DevOps Quality
 
 Experienced QA Engineering Lead with 6+ years of end-to-end QA ownership across automation strategy, framework development, CI/CD quality pipelines, and scalable test engineering for enterprise-grade applications.
 I build robust automation ecosystems, lead QA initiatives, mentor teams, and advocate for AI-powered testing workflows.
 
-🚀 About Me
+## 🚀 About Me
 
 🔍 Quality Automation Specialist at NatWest Bank, London
 
@@ -18,32 +18,32 @@ I build robust automation ecosystems, lead QA initiatives, mentor teams, and adv
 
 🧩 Create NPM tools, CI templates, extensions, and reusable test frameworks
 
-🛠️ Tech Stack
-Programming
+## 🛠️ Tech Stack
+### Programming
 
 Java • JavaScript • TypeScript • Python
 
-Automation & Frameworks
+### Automation & Frameworks
 
 Cypress • Selenium WebDriver • Playwright • TestNG • Cucumber
 Postman • REST • GraphQL • BDD/TDD • POM
 
-Performance & Security
+### Performance & Security
 
 JMeter • BurpSuite • OWASP • DAST • SAST
 
-DevOps, Cloud & CI/CD
+### DevOps, Cloud & CI/CD
 
 GitHub Actions • GitLab CI • Azure DevOps • Jenkins
 Docker • Kubernetes • AWS
 BrowserStack • LambdaTest
 
-Management & Collaboration
+### Management & Collaboration
 
 Jira • Git • Bugzilla
 
-🏆 Featured Projects
-🌟 1. Cypress Test To Excel (NPM Plugin)
+## 🏆 Featured Projects
+### 🌟 1. Cypress Test To Excel (NPM Plugin)
 
 Automates Cypress test documentation into Excel.
 ✔ 50% faster documentation
@@ -52,7 +52,7 @@ Automates Cypress test documentation into Excel.
 
 🔗 GitHub/NPM link (add once uploaded)
 
-🌟 2. Cypress–GitLab–Allure VSCode Extension
+### 🌟 2. Cypress–GitLab–Allure VSCode Extension
 
 Bootstrapper for Cypress × GitLab CI × Allure setup.
 ✔ 60% improved onboarding
@@ -61,7 +61,7 @@ Bootstrapper for Cypress × GitLab CI × Allure setup.
 
 🔗 GitHub link (add once uploaded)
 
-🌟 3. Playwright Smoke Test CI Template
+### 🌟 3. Playwright Smoke Test CI Template
 
 CI-ready Playwright test suite integrated with GitHub Actions.
 ✔ PR-triggered smoke tests
@@ -70,7 +70,7 @@ CI-ready Playwright test suite integrated with GitHub Actions.
 
 🔗 GitHub link (add once uploaded)
 
-🌟 4. API Automation Framework (Postman + Newman)
+### 🌟 4. API Automation Framework (Postman + Newman)
 
 ✔ Environment-driven execution
 ✔ CI-ready scripts
@@ -78,8 +78,8 @@ CI-ready Playwright test suite integrated with GitHub Actions.
 
 🔗 GitHub link (add once uploaded)
 
-💼 Professional Experience
-NatWest Bank, London — Quality Automation Specialist
+## 💼 Professional Experience
+### NatWest Bank, London — Quality Automation Specialist
 
 2024 – Present
 
@@ -93,7 +93,7 @@ Leveraged AI tools to speed delivery by 40%
 
 Built GitLab CI pipelines reducing feedback time by 40%
 
-Red Hat — Senior Software Quality Engineer
+### Red Hat — Senior Software Quality Engineer
 
 2022 – 2024
 
@@ -107,15 +107,15 @@ Built GitLab CI pipelines speeding regression by 50%
 
 Other Roles
 
-Software Quality Engineer (API + Performance)
+### Software Quality Engineer (API + Performance)
 
-Information Security Engineer (DAST, VA assessments)
+### Information Security Engineer (DAST, VA assessments)
 
-Security Researcher (OWASP Top 10)
+### Security Researcher (OWASP Top 10)
 
-QA Engineer (Telecom domain functional testing)
+### QA Engineer (Telecom domain functional testing)
 
-🎓 Certifications
+### 🎓 Certifications
 
 Google UX Design Professional (2025)
 
@@ -127,7 +127,7 @@ ISTQB CTFL (2023)
 
 CompTIA Security+ SY0501 (Valid till 2027)
 
-🏅 Awards
+### 🏅 Awards
 
 🥇 Outstanding Innovator Award — Red Hat
 
@@ -135,12 +135,12 @@ CompTIA Security+ SY0501 (Valid till 2027)
 
 🤝 Recognized for transforming a mentee’s career through QA coaching
 
-🎓 Education
+### 🎓 Education
 
 B.Tech – Information Technology
 Vellore Institute of Technology
 
-📈 GitHub Stats
+### 📈 GitHub Stats
 
 (These automatically update once added to your profile)
 
@@ -148,7 +148,7 @@ Vellore Institute of Technology
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mudit94&layout=compact)
 
 
-📫 Let’s Connect
+### 📫 Let’s Connect
 
 📍 London, UK
 🔗 LinkedIn: https://www.linkedin.com/in/maheshwarimudit
