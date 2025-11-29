@@ -24,8 +24,9 @@ I build robust automation ecosystems, lead QA initiatives, mentor teams, and adv
 <p align="left"> <a href='https://playwright.dev/'> <img src="https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1759069015022 width="40" height="40"> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ### Management & Collaboration
-<p> <a href="https://www.atlassian.com/software/jira"> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/211e3c63-6288-4ff2-bf64-e4d1ac20bdcb"/> </a> </p>
-Jira • Git • Bugzilla
+<p> <a href="https://www.atlassian.com/software/jira"> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/211e3c63-6288-4ff2-bf64-e4d1ac20bdcb"/> </a> <a href="https://git.com"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3c73f127-f8c0-44f0-bb25-e652c7184d65" /></a><a href="https://gitlab.com"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/717263a9-51fb-4330-bdb4-b29bc2ff3a26" />
+
+ </p>
 
 ## 🏆 Featured Projects
 ### 🌟 1. Cypress Test To Excel (NPM Plugin)
@@ -35,7 +36,7 @@ Automates Cypress test documentation into Excel.
 ✔ 70% reduced manual effort
 ✔ 1,000+ downloads
 
-🔗 GitHub/NPM link (add once uploaded)
+🔗 GitHub/NPM link
 
 ### 🌟 2. Cypress–GitLab–Allure VSCode Extension
 
@@ -44,7 +45,7 @@ Bootstrapper for Cypress × GitLab CI × Allure setup.
 ✔ 50% faster CI configuration
 ✔ 500+ downloads
 
-🔗 GitHub link (add once uploaded)
+🔗 GitHub link
 
 ### 🌟 3. Playwright Smoke Test CI Template
 
@@ -53,7 +54,7 @@ CI-ready Playwright test suite integrated with GitHub Actions.
 ✔ Allure report generation
 ✔ Modular & scalable folder structure
 
-🔗 GitHub link (add once uploaded)
+🔗 GitHub link
 
 ### 🌟 4. API Automation Framework (Postman + Newman)
 
@@ -61,7 +62,7 @@ CI-ready Playwright test suite integrated with GitHub Actions.
 ✔ CI-ready scripts
 ✔ HTML + JUnit reporting
 
-🔗 GitHub link (add once uploaded)
+🔗 GitHub link 
 
 ## 💼 Professional Experience
 ### NatWest Bank, London — Quality Automation Specialist
