@@ -1,52 +1,156 @@
-# Hi there 👋 I'm Mudit Maheshwari
-**QA Engineering Lead · SDET · Automation Architect · Cloud & DevOps Quality**
+👋 Hi, I'm Mudit Maheshwari
+QA Engineering Lead | SDET | Automation Architect | Cloud & DevOps Quality
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshwarimudit) 
-[![Email](https://img.shields.io/badge/Email-mudit94%40yahoo.com-c14438?logo=gmail&logoColor=white)](mailto:mudit94@yahoo.com)
-[![Location](https://img.shields.io/badge/Location-London%2C%20UK-4b5563?logo=map-marker&logoColor=white)](#)
+Experienced QA Engineering Lead with 6+ years of end-to-end QA ownership across automation strategy, framework development, CI/CD quality pipelines, and scalable test engineering for enterprise-grade applications.
+I build robust automation ecosystems, lead QA initiatives, mentor teams, and advocate for AI-powered testing workflows.
 
-> QA Engineering Lead with 6+ years building scalable automation frameworks, defining QA strategy, and leading cross-functional quality initiatives across web & cloud-native platforms. (Resume source: my GitHub / resume). :contentReference[oaicite:0]{index=0}
+🚀 About Me
 
----
+🔍 Quality Automation Specialist at NatWest Bank, London
 
-## 🔭 Current
-- Working as **Quality Automation Specialist** at **NatWest Bank, London** — focusing on Cypress & Playwright automation, GitLab/GitHub CI integration, and test reliability. :contentReference[oaicite:1]{index=1}
+🧪 Designed Cypress frameworks reducing manual regression by 60–70%
 
----
+⚙️ Integrated automation in GitHub Actions, GitLab CI, Jenkins, and Azure DevOps
 
-## 📈 GitHub Stats & Badges
+🧠 Mentor testers turning into automation engineers
 
-<!-- Replace YOUR-GITHUB-USERNAME with your username -->
-<p align="left">
-  <img alt="Mudit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
-  &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact" />
-</p>
+🤖 Use AI tools (Cursor, Copilot, ChatGPT) to accelerate framework development
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=default)](https://git.io/streak-stats)
+🧩 Create NPM tools, CI templates, extensions, and reusable test frameworks
 
----
+🛠️ Tech Stack
+Programming
 
-## 🛠️ Core Skills & Tools
+Java • JavaScript • TypeScript • Python
 
-### Languages
-<p>
-  <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="36" />&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JS" width="36" />&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TS" width="36" />&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="36" />
-</p>
+Automation & Frameworks
 
-### Automation & Test Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress" />&nbsp;
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium" />&nbsp;
-  <img src="https://img.shields.io/badge/Playwright-000000?logo=playwright&logoColor=white" alt="Playwright" />&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
-</p>
+Cypress • Selenium WebDriver • Playwright • TestNG • Cucumber
+Postman • REST • GraphQL • BDD/TDD • POM
 
-### CI / DevOps / Cloud
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />&nbsp;
-  <img src="https://img.shields.io/badge/GitLab_CI-E24329?logo=gitlab&logoColor=white" alt="GitLab CI" />&nbsp;
-  <img src=
+Performance & Security
+
+JMeter • BurpSuite • OWASP • DAST • SAST
+
+DevOps, Cloud & CI/CD
+
+GitHub Actions • GitLab CI • Azure DevOps • Jenkins
+Docker • Kubernetes • AWS
+BrowserStack • LambdaTest
+
+Management & Collaboration
+
+Jira • Git • Bugzilla
+
+🏆 Featured Projects
+🌟 1. Cypress Test To Excel (NPM Plugin)
+
+Automates Cypress test documentation into Excel.
+✔ 50% faster documentation
+✔ 70% reduced manual effort
+✔ 1,000+ downloads
+
+🔗 GitHub/NPM link (add once uploaded)
+
+🌟 2. Cypress–GitLab–Allure VSCode Extension
+
+Bootstrapper for Cypress × GitLab CI × Allure setup.
+✔ 60% improved onboarding
+✔ 50% faster CI configuration
+✔ 500+ downloads
+
+🔗 GitHub link (add once uploaded)
+
+🌟 3. Playwright Smoke Test CI Template
+
+CI-ready Playwright test suite integrated with GitHub Actions.
+✔ PR-triggered smoke tests
+✔ Allure report generation
+✔ Modular & scalable folder structure
+
+🔗 GitHub link (add once uploaded)
+
+🌟 4. API Automation Framework (Postman + Newman)
+
+✔ Environment-driven execution
+✔ CI-ready scripts
+✔ HTML + JUnit reporting
+
+🔗 GitHub link (add once uploaded)
+
+💼 Professional Experience
+NatWest Bank, London — Quality Automation Specialist
+
+2024 – Present
+
+Designed Cypress automation, cutting regression by 60%
+
+Integrated Playwright smoke tests into GitHub Actions
+
+98% browser compatibility via BrowserStack
+
+Leveraged AI tools to speed delivery by 40%
+
+Built GitLab CI pipelines reducing feedback time by 40%
+
+Red Hat — Senior Software Quality Engineer
+
+2022 – 2024
+
+Delivered 5,000+ automated tests across product modules
+
+Mentored junior engineers into automation specialists
+
+Reduced defect leakage by 40%
+
+Built GitLab CI pipelines speeding regression by 50%
+
+Other Roles
+
+Software Quality Engineer (API + Performance)
+
+Information Security Engineer (DAST, VA assessments)
+
+Security Researcher (OWASP Top 10)
+
+QA Engineer (Telecom domain functional testing)
+
+🎓 Certifications
+
+Google UX Design Professional (2025)
+
+Google AI Essentials (2025)
+
+LambdaTest Certified Automation Professional (2024)
+
+ISTQB CTFL (2023)
+
+CompTIA Security+ SY0501 (Valid till 2027)
+
+🏅 Awards
+
+🥇 Outstanding Innovator Award — Red Hat
+
+🥇 Quintessential Collaboration Award — Red Hat
+
+🤝 Recognized for transforming a mentee’s career through QA coaching
+
+🎓 Education
+
+B.Tech – Information Technology
+Vellore Institute of Technology
+
+📈 GitHub Stats
+
+(These automatically update once added to your profile)
+
+![Mudit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mudit94&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mudit94&layout=compact)
+
+
+📫 Let’s Connect
+
+📍 London, UK
+🔗 LinkedIn: https://www.linkedin.com/in/maheshwarimudit
+
+📧 Email: mudit94@yahoo.com
